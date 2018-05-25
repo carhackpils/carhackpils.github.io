@@ -1,6 +1,7 @@
 ---
 published: true
 excerpt_separator: <!--more-->
+comments: true
 ---
 Hi there, welcome to my blog, I hope you will read it with as much pleasure as I had writing it. Please enjoy ! (and if you want to read why I started writing, click on "read more" :)
 
