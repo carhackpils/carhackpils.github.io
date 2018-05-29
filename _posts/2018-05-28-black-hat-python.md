@@ -6,7 +6,8 @@ excerpt_separator: <!--more-->
 ---
 Something came in the mail today !
 
-![blackHatPython]()
+![blackhatpython]({{site.baseurl}}/images/blackhatpython.png)
 
 I can't wait to get started ! 
 Exercice code can be found here [https://github.com/carhackpils/blackHatPython](https://github.com/carhackpils/blackHatPython)
+<!--more-->
