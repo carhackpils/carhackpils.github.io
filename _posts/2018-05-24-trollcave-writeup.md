@@ -4,6 +4,7 @@ published: false
 categories: write-up
 title: Write-up Trollcave
 excerpt_separator: <!--more-->
+comments: true
 ---
 
 In this post, I'll do the write-up of the [Trollcave](https://www.vulnhub.com/entry/trollcave-12,230/) VM. This is the first write-up I'm doing so sorry if I'm making some mistakes :p.
