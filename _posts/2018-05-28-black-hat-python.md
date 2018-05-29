@@ -3,6 +3,7 @@ published: true
 layout: post
 categories: write-up
 excerpt_separator: <!--more-->
+comments: true
 ---
 Something came in the mail today !
 
